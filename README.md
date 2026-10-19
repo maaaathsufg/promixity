@@ -1,13 +1,8 @@
 # promixity
-## not associated by roblox or exploit/cheats.
-
-# What's this?
-## Simple:
+simple
 
 - script called loadstring
-|
-|- github compact file and send hash
-|
-|- script decypt the file and use
+- github compact file and send hash
+- script decypt the file and use
 
 # That's all
